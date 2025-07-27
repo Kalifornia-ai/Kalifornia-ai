@@ -2,7 +2,7 @@
 
 I’m an **Embedded Systems Engineer** passionate about building intelligent, efficient systems that bridge hardware and software. My work spans **IoT**, **Edge AI**, **real-time systems**, and **low-power embedded design**.
 
-Currently pursuing an MSc in Embedded Systems, I focus on low-power wireless and edge computing architectures. I thrive at the intersection of **hardware efficiency** and **AI-driven intelligence**.
+Currently pursuing an MSc in Electrical and Computer Engineering, I focus on low-power wireless and edge computing architectures. I thrive at the intersection of **hardware efficiency** and **AI-driven intelligence**.
 
 ---
 
