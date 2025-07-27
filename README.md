@@ -1,10 +1,14 @@
 # 👋 Hi, I’m Kadyrzhan
 
-I’m an **Embedded Systems Engineer** passionate about building efficient, intelligent systems that bridge hardware and software. My work spans **IoT**, **Edge AI**, **real-time systems**, and **low-power embedded design**. I'm currently pursuing my MSc in Embedded Systems and working on intelligent low-power designs for wireless and edge computing. I thrive at the intersection of hardware efficiency and AI-driven intelligence
+I’m an **Embedded Systems Engineer** passionate about building intelligent, efficient systems that bridge hardware and software. My work spans **IoT**, **Edge AI**, **real-time systems**, and **low-power embedded design**.
+
+Currently pursuing an MSc in Embedded Systems, I focus on low-power wireless and edge computing architectures. I thrive at the intersection of **hardware efficiency** and **AI-driven intelligence**.
 
 ---
 
-![Kadyrzhan Banner](./assets/banner.png)
+![Skills Banner](./assets/banner.png)
+
+---
 
 ## 💼 What I Do
 
@@ -13,34 +17,35 @@ I’m an **Embedded Systems Engineer** passionate about building efficient, inte
 📉 Real-time data acquisition and analysis  
 🤖 Machine learning on edge devices (TinyML, PyTorch, TFLite)  
 📡 Wireless protocols, CAN bus, LoRa, and MQTT  
-🧠 Deep learning for signal processing and classification
+🧠 Deep learning for signal processing and classification  
 
 ---
 
 ## 📁 Featured Projects
 
 - 🥦 [**Fruits & Vegetables Classification**](https://github.com/Kalifornia-ai/FruitsAndVegetablesClassification)  
-  CNN-based image classifier using PyTorch and edge-deployable techniques
+  CNN-based PyTorch model for fruit/veg classification, deployable on edge devices
 
 - 🔋 [**Low-Power IoT Environmental Monitor**](https://github.com/Kalifornia-ai/Low-Power-IoT-Environmental-Monitor)  
-  Power-optimized sensor node using TMP117 & SPS30 with deep sleep
+  Sensor node with TMP117 & SPS30 using deep sleep and PlatformIO
 
 - ⏱️ [**CAN Delay Study (TrueTime)**](https://github.com/Kalifornia-ai/CAN-Delay-Study)  
-  Simulink model with Poisson CAN traffic and regenerative simulation
+  Simulink/TrueTime model of Poisson CAN traffic with regenerative delay estimation
 
 - 📡 [**Satcom Interference Mitigation**](https://github.com/Kalifornia-ai/Satcom-interference-mitigation)  
-  Deep learning models for RF signal denoising and separation
+  Deep learning models (LSTM, CNN) for denoising satellite RF signals
 
 - 🏁 [**AsyncRaceAPI**](https://github.com/Kalifornia-ai/AsyncRaceAPI)  
-  TypeScript + React + Redux web app simulating animated car races with REST & async control
-
+  React + TypeScript race simulator with REST API, Redux, and RTK Query
 
 ---
+
+## 🛠 Skills
 
 **Languages:** C, C++, Python, Embedded C  
 **Frameworks:** FreeRTOS, STM32 HAL, Arduino, PlatformIO  
 **ML Tools:** PyTorch, TensorFlow Lite, Edge Impulse  
-**Tools:** Git, KiCad, Simulink, TrueTime, VS Code 
+**Tools:** Git, KiCad, Simulink, TrueTime, VS Code
 
 ---
 
@@ -48,30 +53,35 @@ I’m an **Embedded Systems Engineer** passionate about building efficient, inte
 
 - Embedded Linux and Yocto  
 - STM32 bare-metal development  
-- Edge AI benchmarking and model compression  
-- CI/CD for firmware
+- Edge AI model compression (quantization, pruning)  
+- CI/CD for embedded firmware
 
 ---
 
 ## 🏅 Certifications
-- TinyML by HarvardX (edX)
-- Embedded Systems by Coursera / UC Irvine
-- Introduction to Yocto (bootlin)
+
+- 🎓 TinyML by HarvardX (edX)  
+- 🎓 Embedded Systems by UC Irvine (Coursera)  
+- 🎓 Introduction to Yocto (Bootlin)
 
 ---
 
 ## 📬 Let’s Connect
 
-- 📫 Email: [kadyrzhan.tortayev@gmail.com](mailto:kadyrzhan.tortayev@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/kadyrzhan](https://linkedin.com/in/kadyrzhan)  
-- 🌍 Portfolio: Coming soon
+📫 [kadyrzhan.tortayev@gmail.com](mailto:kadyrzhan.tortayev@gmail.com)  
+🔗 [linkedin.com/in/kadyrzhan](https://linkedin.com/in/kadyrzhan)  
+🌍 Portfolio: *Coming soon*
 
 ---
 
 ## ⚡ Fun Fact
 
-When I’m not coding or debugging sensor interfaces, I’m analyzing Dota 2 match data or automating crypto backtests for fun.
+When I’m not coding or debugging sensor interfaces, I’m analyzing Dota 2 match data or automating crypto backtests just for fun 🎮📊
 
 ---
 
-![Kadyrzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalifornia-ai&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Kadyrzhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kalifornia-ai&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Kalifornia-ai&theme=radical)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kalifornia-ai&theme=onedark)
