@@ -60,9 +60,9 @@ Currently pursuing an MSc in Embedded Systems, I focus on low-power wireless and
 
 ## 🏅 Certifications
 
-- 🎓 TinyML by HarvardX (edX)  
-- 🎓 Embedded Systems by UC Irvine (Coursera)  
-- 🎓 Introduction to Yocto (Bootlin)
+- 🎓 [Neural Networks and Deep Learning (DeepLearning.Ai)](https://coursera.org/share/fab9c0b0fc6b6839c4319c13a6aa9269)
+- 🎓 [Machine Learning in Production (DeepLearning.Ai)] (https://coursera.org/share/a633ebc0bbc5c54f1b62dee3427a9833)
+- 🎓 [Node JS Development with AI Tools (EPAM Tech Orda)] (https://certificates.epam.com/certificates/88880bcd-ed26-4037-8aea-3d1424c750c6)
 
 ---
 
