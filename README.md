@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kadyrzhan
 
-I’m an **Embedded Systems Engineer** passionate about building efficient, intelligent systems that bridge hardware and software. My work spans **IoT**, **Edge AI**, **real-time systems**, and **low-power embedded design**.
+I’m an **Embedded Systems Engineer** passionate about building efficient, intelligent systems that bridge hardware and software. My work spans **IoT**, **Edge AI**, **real-time systems**, and **low-power embedded design**. I'm currently pursuing my MSc in Embedded Systems and working on intelligent low-power designs for wireless and edge computing. I thrive at the intersection of hardware efficiency and AI-driven intelligence
 
 ---
 
@@ -29,6 +29,17 @@ I’m an **Embedded Systems Engineer** passionate about building efficient, inte
 - 📡 [**Satcom Interference Mitigation**](https://github.com/Kalifornia-ai/Satcom-interference-mitigation)  
   Deep learning models for RF signal denoising and separation
 
+- 🏁 [**AsyncRaceAPI**](https://github.com/Kalifornia-ai/AsyncRaceAPI)  
+  TypeScript + React + Redux web app simulating animated car races with REST & async control
+
+
+---
+
+**Languages:** C, C++, Python, Embedded C  
+**Frameworks:** FreeRTOS, STM32 HAL, Arduino, PlatformIO  
+**ML Tools:** PyTorch, TensorFlow Lite, Edge Impulse  
+**Tools:** Git, KiCad, Simulink, TrueTime, VS Code 
+
 ---
 
 ## 📚 Currently Learning
@@ -37,6 +48,13 @@ I’m an **Embedded Systems Engineer** passionate about building efficient, inte
 - STM32 bare-metal development  
 - Edge AI benchmarking and model compression  
 - CI/CD for firmware
+
+---
+
+## 🏅 Certifications
+- TinyML by HarvardX (edX)
+- Embedded Systems by Coursera / UC Irvine
+- Introduction to Yocto (bootlin)
 
 ---
 
