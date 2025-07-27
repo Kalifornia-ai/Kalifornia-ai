@@ -4,6 +4,8 @@ I’m an **Embedded Systems Engineer** passionate about building efficient, inte
 
 ---
 
+![Kadyrzhan Banner](./assets/banner.png)
+
 ## 💼 What I Do
 
 🔧 Embedded systems development with C/C++, RTOS, and microcontrollers  
