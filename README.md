@@ -72,9 +72,6 @@
 
 ---
 
-## ⚡ Fun Fact
-
-When I’m not coding or debugging sensor interfaces, I’m analyzing Dota 2 match data or automating crypto backtests just for fun 🎮📊
 
 ---
 
