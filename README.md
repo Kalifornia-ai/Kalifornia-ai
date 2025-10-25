@@ -1,21 +1,5 @@
-# 👋 Hi, I’m Kadyrzhan
 
 
-
----
-
-![Skills Banner](./assets/banner.png)
-
----
-
-## 💼 What I Do
-
-🔧 Embedded systems development with C/C++, RTOS, and microcontrollers  
-🌐 IoT sensor design + cloud integration  
-📉 Real-time data acquisition and analysis  
-🤖 Machine learning on edge devices (TinyML, PyTorch, TFLite)  
-📡 Wireless protocols, CAN bus, LoRa, and MQTT  
-🧠 Deep learning for signal processing and classification  
 
 ---
 
